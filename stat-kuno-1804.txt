@@ -10,5 +10,6 @@
 
 2018.4.2
 ・policy.txtを作りgithubに置く。
+・git-howto.txtを作りgithubに置く。
 
 
