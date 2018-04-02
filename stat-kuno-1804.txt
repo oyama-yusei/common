@@ -1,0 +1,14 @@
+活動報告(久野) 2018.4-
+
+2018.3.20
+・githubにuec-kunolabというorganizationを作る。
+・その下にcommonというリポジトリを作る。
+・学部生の皆さんにinvitationを送る(メールも送る)。
+
+2018.3.330
+・githubにREADME.txtを作る。
+
+2018.4.2
+・policy.txtを作りgithubに置く。
+
+
