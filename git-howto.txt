@@ -1,0 +1,21 @@
+最低限のgit
+
+(1) 初期設定し手元にcommonの複製を持って来る
+・適当なディレクトリを作る(その下に色々置かれる)
+・git config --global user.name 'Your-Name'
+・git config --global user.email 'your-mail-address'
+・git clone https://github.com/uec-kunolab/common
+
+(2)自分のファイルを追加する
+・stat-名前-1804.txt などを作る
+・git add ファイル名
+・git -a -m 'short msg. of what you changed in English'
+・git push (id/pass必要)
+
+(3)自分のファイルを修正する
+・ファイルを直接修正する
+・git -a -m 'short msg. of what you changed in English'
+・git push (id/pass必要)
+
+(4)他人が行った変更を手元に反映
+・git pull
